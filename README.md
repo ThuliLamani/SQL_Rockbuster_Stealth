@@ -17,3 +17,9 @@ The dataset that contains information about Rockbuster’s film inventory, custo
 
 # Visualizations
 To access Tableau visualizations, go here: [https://public.tableau.com/app/profile/thuli.lamani/viz/Rockbustersdataanalyticsproject/allcountries]
+
+# Tools used:
+* SQL
+* Excel
+* Tableau
+* PowerPoint 
